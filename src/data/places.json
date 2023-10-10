@@ -1,0 +1,26 @@
+[
+    {
+        "id" :1,
+        "url": "https://www.tom-archer.com/wp-content/uploads/2018/01/aurora_in_lofoten_norway.jpg",
+        "text": "A trip to Norway",
+        "description": "Explore Norway's breathtaking fjords, stunning landscapes, and vibrant cities while immersing in Nordic culture and outdoor adventures.",
+        "price": 600,
+        "isDiscountApplied":false
+    },
+    {
+        "id" :2,
+        "url": "https://www.travelalaska.com/sites/default/files/2022-01/Haida-GlacierBay-GettyImages-1147753605.jpg",
+        "text": "A trip to Alaska",
+        "description": "Discover Alaska's untamed wilderness, glaciers, and wildlife in a land of rugged beauty, outdoor exploration, and Northern Lights wonders.",
+        "price": 700,
+        "isDiscountApplied":false
+    },
+    {
+        "id" :3,
+        "url": "https://images.prismic.io/prospects-ac-uk/0c7a2bcc38d3135afb2ba54476bf9beee54d6d1e_work-abroad-belgium-2.jpg?auto=compress,format",
+        "text": "A trip to Belgium",
+        "description": "Explore Norway's breathtaking fjords, stunning landscapes, and vibrant cities while immersing in Nordic culture and outdoor adventures.",
+        "price": 800,
+        "isDiscountApplied":false
+    }
+]
